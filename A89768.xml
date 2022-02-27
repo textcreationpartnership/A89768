@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Holy scripture-work is better than the work of the corrupt reasoning of fallen man By Jos. Nott.</title>
+            <author>Nott, Joseph, d. 1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89768</idno>
+            <idno type="STC">Wing N1401A</idno>
+            <idno type="STC">ESTC R231393</idno>
+            <idno type="EEBO-CITATION">99896814</idno>
+            <idno type="PROQUEST">99896814</idno>
+            <idno type="VID">137149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89768)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137149)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2447:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Holy scripture-work is better than the work of the corrupt reasoning of fallen man By Jos. Nott.</title>
+                  <author>Nott, Joseph, d. 1699.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sabbath --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137149:1"/>
+            <pb facs="tcp:137149:1"/>
+            <p>HOLY Scripture-Work Is Better than the WORK of The Corrupt REASONING OF FALLEN MAN.</p>
+            <q>
+               <p>Secret things belong unto the Lord our God; but thoſe things which are revealed, belong unto us and to our Children for ever,</p>
+            </q>
+            <bibl>
+               <hi>Deut. 29.29.</hi>
+            </bibl>
+            <q>
+               <p>For after that, in the Wiſdom of God, the World by Wiſdom knew not God; it pleaſed God by the Fooliſhneſs of Preaching, to ſave them that believe,</p>
+            </q>
+            <bibl>
+               <hi>1 Cor. 1.21.</hi>
+            </bibl>
+            <q>
+               <p>Wo to the Rebellious Children, ſaith the Lord, that take Counſel, but not of me; and that Cover with a Covering, but not of my Spirit,</p>
+            </q>
+            <bibl>
+               <hi>Iſa. 30.1.</hi>
+            </bibl>
+            <q>
+               <p>The Lord fruſtrateth the Tokens of the Liers, and maketh Diviners mad; turneth Wiſe Men backward, and maketh their Knowledge fooliſh,</p>
+            </q>
+            <bibl>
+               <hi>Iſa. 44.24, 25.</hi>
+            </bibl>
+            <p>
+               <hi>By</hi> JOS. NOTT.</p>
+            <p>LONDON, <hi>Printed in the Year</hi> 1693.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:137149:2"/>
+            <pb facs="tcp:137149:2"/>
+            <head>PREFACE.</head>
+            <p>
+               <hi>REader,</hi> by this thou may'ſt know, That I have ſeen a Book with <hi>G. T.</hi> for <hi>George Troſes</hi> Name to it, a Preacher amongſt the <hi>Presbyteri<g ref="char:EOLhyphen"/>ans</hi> in <hi>Exon,</hi> Dated <hi>1692.</hi> Now this Book of <hi>G. T's.</hi> was written in An<g ref="char:EOLhyphen"/>ſwer to a Book ſet forth by <hi>Thomas Bampfield,</hi> Counſeller at Law in <hi>Exon,</hi> by way of Enquiry, <hi>Whether the Lord Jeſus Chriſt made the World?</hi> And alſo, <hi>By way of Vindication of the Obſervation of the ſeventh Day as a Sabbath.</hi> I would have the <hi>Reader</hi> obſerve, That I am not concerned to Vindicate <hi>T. B's.</hi> Book; but to the latter I ſay, I am ſenſi<g ref="char:EOLhyphen"/>ble, that Chriſt the Subſtance is come, and the Shadows flies away: But I am concerned to return a Reply to ſeveral things in <hi>G. T's.</hi> Book, for I have peruſed it, and have ſeen the great Error of the Writer, which drew a con<g ref="char:EOLhyphen"/>cern upon my Mind to write: For, I do admire, that ever a Man, profeſ<g ref="char:EOLhyphen"/>ſing Chriſtianity, ſhould appear in Print in ſuch manifeſt Oppoſition to the Holy Scriptures; and yet of that number that profeſs the Scripture to be the only Rule of Faith, <hi>&amp;c.</hi> But in this we may ſee the great Confuſion of <hi>Babels</hi> Builders. I deſire the <hi>Reader</hi> to conſider what thou Reads; and if any one publiſh any Doctrine contrary to the Holy Scriptures, believe them not; for Chriſt bids us, <hi>Beware of falſe Prophets which come in Sheeps Cloathing;</hi> who ſaith, <hi>Ye ſhall know them by their Fruits,</hi> Matth. <hi>7.15, 16.</hi> And the Apoſtle <hi>Paul</hi> adviſeth us to turn away from ſuch as have a form of Godlineſs, but denies the Power, <hi>2 Tim. 3.5. For indeed, another Foundation can no Man lay than that which is laid, which is Jeſus Chriſt, 1</hi> Cor. <hi>3.11.</hi> And therefore I deſire the <hi>Reader</hi> to keep thy Mind near to the Light of Jeſus Chriſt, in thy own Heart and Conſcience, that ſo thou mayſt underſtand what thou readeſt: <hi>For the great Myſtery which hath been hid from Ages, and from Generations, is Chriſt within, the hope of Glory,</hi> Col. <hi>1.26, 27.</hi> Therefore, to the Spirit of God in thy own Heart, I do recommend thee as unto that which will give a true Diſcerning and right <g ref="char:V">Ʋ</g>nderſtanding of the things of God, as it is hearkened unto, and obeyed.</p>
+            <closer>
+               <signed>J. N.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:137149:3"/>
+            <p>WE generally profeſs, that we do believe, That the Holy Scriptures were written for our Learning; that is, <hi>Epiſcopa<g ref="char:EOLhyphen"/>tion, Presbyterian, Independant, Anabaptiſt,</hi> and <hi>Quakers, &amp;c.</hi> And that we ought to prove our Doctrine and Principles by them: And we alſo do ſay, That if any Man do hold or endeavour to prove any Doctrine or Principle that is contrary to the Holy Scriptures, that we ought not to believe them, altho' they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> never ſo Or<g ref="char:EOLhyphen"/>thodoxly, called, or ſubtile Endeavours to prove their Aſſertion. Now ſuch a one as the latter is <hi>G. T.</hi> For he greatly endeavours to prove, <hi>That Jeſus Chriſt was not in the Beginning; and that the World was not made by him,</hi> which is contrary to the Holy Scripture; and he alſo endeavours to prove the firſt Day of the Week to be the Chriſtian Sabbath; the which he hath no Scripture to prove, as he himſelf doth acknowledge. I ſhall ſet down ſome of his own words in his Book: Firſt, concerning Chriſt Jeſus; in <hi>p.</hi> 4. he ſaith, <hi>We ſay that it may be Orthodoxly denied and aſſerted, That Jeſus Chriſt did not make the World, for the World was</hi> 4000 <hi>Years before ever Jeſus Chriſt was:</hi> And in <hi>p.</hi> 5. he ſaith, <hi>In the Old Teſtament Chriſt is Propheſied of to come; how could he then create the World:</hi> And in <hi>p.</hi> 12. he ſaith, <hi>We have ſufficiently Anſwered that it was not the Lord Chriſt that created the World:</hi> And in <hi>p.</hi> 19. he ſpeaking of before the Fall of Man, ſaith, <hi>In which time there could not be ſo much as any need or uſe of a Jeſus or a Chriſt; nor was there ſo much as the leaſt hint of him given, by either Propheſie or Promiſe:</hi> (And then he ſaith) <hi>much leſs was he himſelf in Being:</hi> And in <hi>p.</hi> 130. he ſaith, <hi>I think I have ſhewn that the Lord Chriſt did not make the World.</hi>
+            </p>
+            <p>Now here, all that can ſee with a ſingle Eye, may ſee the darkneſs and blindneſs of this Man; yea, the groſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> darkneſs that may be felt; yea, the blindneſs, the born blindneſs. Oh! Erroneous Doctrine; who will believe or receive ſuch Doctrine, as is ſo contrary to the Holy Scriptures of Truth? Now that this is contrary to the Holy Scriptures, is eaſily prov'd: And by the Aſſi<g ref="char:EOLhyphen"/>tance of the Holy Spirit of God, I ſhall undertake to prove, That <hi>Jeſus Chriſt was in the Beginning, and that the World was made by him:</hi> For Chriſt Jeſus ſaid to the Jews, <hi>Before</hi> Abraham <hi>was, I am,</hi> John 8.58. And the Apoſtle <hi>Paul,</hi> ſpeaking of the Jews, ſaid, <hi>They drank of that Spiritual Rock that fol<g ref="char:EOLhyphen"/>lowed them; and that Rock was Chriſt,</hi> 1 Cor. 10.4. And Chriſt in Prayer ſaid, <hi>And now, O Father, Glorifie thou me with thine own ſelf, with the Glory which I had with thee before the World was:</hi> And he farther ſaid, <hi>Thou lovedſt me be<g ref="char:EOLhyphen"/>fore the foundation of the World,</hi> John 17.5, 24. And in <hi>Chap.</hi> 1. <hi>ver.</hi> 10. It is written, <hi>He was in the World, and the World was made by him;</hi> and the Apoſtle <hi>Paul</hi> poſitively ſaith, <hi>That God created all things by Jeſus Chriſt,</hi> Eph. 3.9. And he ſpeaking again of Chriſt Jeſus, ſaith, <hi>By him were all things created that are in Heaven, and that are in Earth, viſible and inviſible; whe<g ref="char:EOLhyphen"/>ther
+<pb n="5" facs="tcp:137149:3"/>they be Thrones, or Dominions, or Principalities, or Powers; all things were created by him and for him,</hi> Coll. 1.16. And the Apoſtle writing to the <hi>Hebrews,</hi> further ſaith, <hi>God who at ſundry times, and in divers manners ſpake in times paſt unto the Fathers by the Prophets, hath in theſe laſt days ſpo<g ref="char:EOLhyphen"/>ken unto us by his Son, whom he hath appointed Heir of all things, by whom alſo he made the Worlds,</hi> Heb. 1.1, 2. Now here it is evident, from the words of Chriſt and his Apoſtles, That Jeſus Chriſt was in the Beginning, with the Father; and that all things were created by him. More might be ſaid to prove that Jeſus Chriſt was in the Beginning, and that all things were cre<g ref="char:EOLhyphen"/>ated by him: But this being ſufficient, I ſhall proceed to reply to the other part of his Book; but firſt I ſhall ſet down ſome of his own words in his Book, that the Reader may ſee what it is that I do return an Anſwer unto: The firſt words in his Book are as follows, <hi>The Lord's Day Vindicated, or the firſt Day of the Week the Chriſtian Sabbath:</hi> And in <hi>p.</hi> 33. he ſpeaking of the ſe<g ref="char:EOLhyphen"/>venth Day, and of Chriſt, ſaith, <hi>He deſigned (to wit Chriſt) its ſpeedy Abſolu<g ref="char:EOLhyphen"/>tion as the ſeventh Day, and its Converſion into the firſt Day.</hi> Now this wants a Proof from <hi>G. T.</hi> And in <hi>p.</hi> 44. he ſpeaks of the Change of the ſeventh Day into the firſt Day Sabbath, as he calls it; and in <hi>p.</hi> 59 and 60. he ſaith, <hi>And we ſay the ſeventh Day being caſhiered, the firſt Day ought to be its ſucceſſor.</hi> I wonder from whence he will prove this: And in <hi>p.</hi> 85. he mentions Chriſt's words, where it's ſaid, <hi>The Son of Man is Lord, even of the Sabbath Day:</hi> And then he ſaith a Proof which we make uſe of to prove our Doctrine of the firſt Day Sabbath; but I ſay this is no Proof at all: And in <hi>p.</hi> 114. he ſaith, <hi>The Seventh Day Sabbath was obſerved in Commemoration of the Works of Crea<g ref="char:EOLhyphen"/>tion, until a more admirable Work of God ſhould be Accompliſhed; ſo the firſt day ever after ſhould be the Holy Reſt.</hi> It will be very hard for <hi>G. T.</hi> to prove this; and it doth alſo manifeſt his great Ignorance, of the Reſting Place that the Ser<g ref="char:EOLhyphen"/>vants of the Lord have in Chriſt Jeſus. Now here the Reader may ſee, that his endeavours are to prove the firſt Day of the Week to be the Chriſtian Sabbath; and yet in <hi>p.</hi> 56. he ſaith, <hi>We grant that the Holy Scripture do call no other Day of the Week a Sabbath, but the ſeventh:</hi> And in <hi>p.</hi> 94. he ſaith, <hi>The firſt Day is never called Sabbath in Scripture;</hi> and I ſay ſo too, and there<g ref="char:EOLhyphen"/>fore he might very well have been ſilent: But here, all whoſe Underſtand<g ref="char:EOLhyphen"/>ing is open, may ſee how this Man labours like a Man beating the Air, or that builds without a Foundation; for himſelf doth acknowledge, that he hath no Scripture for a Foundation: But if we, who in ſcorn are call'd <hi>Quakers,</hi> ſhould bring ſuch Doctrine as we had no Scripture to prove, how would Peo<g ref="char:EOLhyphen"/>ple cry out againſt us? And indeed, Reaſon enough too: But we bring no ſuch Doctrine, God forbid we ſhould; for we are a People that have an ho<g ref="char:EOLhyphen"/>nourable Eſteem for the Holy Scriptures. Well, but I would not have any to think that I am going about to plead for the Obſervance of the ſeventh
+<pb facs="tcp:137149:4"/>Day as a Sabbath; I ſay, Nay; altho' it was a Day that was once commanded to be obſerv'd as a Sabbath or Reſt, which is all one: And this was an high Day with the Jews, for they blamed Chriſt Jeſus, becauſe his Diſciples pluck<g ref="char:EOLhyphen"/>ed the Ears of Corn, and becauſe he did Cures on that Day; but the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> tells us, That the Sabbath Days, with other Obſervations, are ſha<g ref="char:EOLhyphen"/>dows of things to come; for he writing to the <hi>Colloſians, Chap.</hi> 2.16.17. ſaith, <hi>Let no Man therefore judge you in Meat or in Drink, or in reſpect of an holy Day, or of the new Moon, or of the Sabbath Days, which are a ſhadow of things to come, but the Body is of Chriſt.</hi> Now here we may ſee that the Sabbath Day was a ſhadow; of what, may ſome ſay, why the Body is of Chriſt: He that can underſtand, let him: Chriſt is the Subſtance; for the Apoſtle <hi>Paul</hi> ſaith, <hi>The Law was our School-Maſter, to bring us unto Chriſt,</hi> Gal. 3.24. And again, <hi>Chriſt is the end of the Law,</hi> Rom. 10.4. So we may ſee that Chriſt is the Sub<g ref="char:EOLhyphen"/>ſtance, ſhadowed forth in the Time of the Law; therefore Chriſt is the Chriſti<g ref="char:EOLhyphen"/>an Sabbath: For as I ſaid before, Sabbath ſignifieth Reſt; and Chriſt Jeſus is the Reſt of his People; and he invites People to come unto him, that ſo they may Reſt in him; for he ſaith, <hi>Come unto me, all ye that labour and are heavy laden, and I will give you Reſt:</hi> And again, <hi>Learn of me, for I am meek and lowly in heart, and you ſhall find Reſt unto your Souls,</hi> Matth. 11.28, 29. And Chriſt farther ſaid unto his Followers, <hi>Theſe things have I ſpoken unto you, that in me you might have peace,</hi> John 16.33. Here we may ſee that Reſt and Peace is in Chriſt Jeſus: And this is the Reſt ſpoken of in <hi>Hebrews</hi> 4.9; 10. where the Apoſtle ſaith, <hi>There remaineth therefore a Reſt to the People of God; for he that is entered into his Reſt, he hath alſo ceaſed from his own works, as God did from his.</hi> Now here we may ſee, that they that are entered into the true Reſt, have ceaſed from their own works: They that can underſtand, let them un<g ref="char:EOLhyphen"/>derſtand: They that are entered into the true Reſt, ceaſe from their own working, willing, and running, and are ſubject to the will of God their Cre<g ref="char:EOLhyphen"/>ator, and ſo are not their own, but the Lord's, and are not doing their own works, but the work of God; neither are they following of their own corrupt wills and deſires; but they are lead by the Spirit of God in their own Hearts; for they that are lead by the Spirit of God, they are Sons of God; ſee <hi>Rom.</hi> 8.14. And they that are Sons of God, do know this trueſt; but <hi>G. T.</hi> doth ma<g ref="char:EOLhyphen"/>nifeſt his Ignorance of it, in applauding of an outward Day, and putting of it in its room: And in <hi>p.</hi> 90. <hi>G. T.</hi> ſaith, <hi>That St.</hi> John <hi>calls the firſt Day of the Week the Lord's Day:</hi> And in <hi>p.</hi> 132. he ſaith, <hi>That the Holy Ghoſt does call the firſt Day of the Week the Lord's Day.</hi> Here <hi>G. T.</hi> hath made a bold venture, and he will find a very hard task to prove what he hath ſaid; and he doth alſo ma<g ref="char:EOLhyphen"/>nifeſt his ignorance of the Everlaſting Day of God's Power, that the Saints in Light are enjoyers of: <hi>For the path of the Juſt is as the ſhining Light, that ſhineth more and more unto the perfect Day,</hi> Prov. 4.18. And the Apoſtle <hi>Paul</hi> writing
+<pb n="7" facs="tcp:137149:4"/>to the Believers, ſaith, <hi>Ye are all the Children of the Light, and the Children of the Day; we are not of the Night, nor of Darkneſs: Therefore let us not ſleep, as do others, but let us watch and be ſober; for they that ſleep, ſleep in the Night, and they that be drunken, are drunken in the Night; but let us who are of the Day, be ſober,</hi> Theſſ. 5.5, 6, 7, 8. Now where is an inviſible Day ſpoken of, that the Sancti<g ref="char:EOLhyphen"/>fied Ones are made living Witneſſes of; and the Apoſtle <hi>Peter,</hi> he alſo ſpeaks of this inviſible Day; for he ſaith, <hi>We have alſo a more ſure word of Propheſie, whereunto you do well, that you take heed, as unto a Light that ſhineth in a dark place, until the Day dawn, and the Day-Star ariſe in your Hearts,</hi> 2 Pet. 1.19. (Mark;) here the Apoſtle ſpeaks of the dawning of the Day, and of the ariſing of the Day-Star in the Heart: Bleſſed are they that are Witneſſes of it, for it expelleth the darkneſs, and cauſeth it to fly away; and it giveth a true diſcerning, and a right underſtanding of the things of God: But <hi>G. T.</hi> manifeſts himſelf to be ignorant of this inviſible Day of the Lord; and ſo appears not to be an Inhabitant of the Holy City, new <hi>Jeruſalem;</hi> for they that are Citizens of this Holy City, are living Witneſſes of the Everlaſting Day of God's Power, dawned and broken forth. An Everlaſt<g ref="char:EOLhyphen"/>ing Day indeed, <hi>For there ſhall be no Night there,</hi> Rev. 21.25. and 22.5. He that can hear, let him hear, and underſtand. Now as for the Days of the Week, they are called as follows; the firſt Day, the ſecond Day, the third Day, the fourth Day, the fifth Day, the ſixth Day, the ſeventh Day, <hi>Gen.</hi> 1.5.8.13.19.23.31. and 2.2. The Lord's Day is an Everlaſting Day, and the true Communicants are living Witneſſes of it; for in this Everlaſting Day, the true Fellowſhip ſtands; ſee the 1 <hi>John</hi> 1.7. <hi>Gen.</hi> 1.5. The Light is called Day, and in the Light, the true Fellowſhip ſtands: But as for the Days of the Week, they have their Names, altho' they may properly be ſaid to be the Lord's Days, becauſe he ordained them; but he hath given them Names, and we ought to call them by the Names that he hath given unto them, and the Names are as is before ſhewed: And as for the ſeventh Day, being called a Sabbath, I have ſpoken to that already: But as for the firſt Day of the Week, the Apoſtles did not call it a Sabbath, nor yet, as I find, the Lord's Day; but they called it as it was called in the Beginning, <hi>The firſt Day of the Week;</hi> for its written, <hi>That</hi> Mary Magdalen, <hi>and the other</hi> Mary, <hi>came to the Sepulchre, as it began to dawn, towards the firſt Day of the Week;</hi> ſee <hi>Matth.</hi> 28.1. and <hi>Mark</hi> 16.2. and <hi>Luke</hi> 24.1. and <hi>John</hi> 20.1. and in <hi>Cor.</hi> 16.1.2. the Apoſtle <hi>Paul</hi> ſaith, <hi>Now concerning the Collection for the Saints, as I have given order to the Churches of</hi> Galatia, <hi>even ſo do ye upon the firſt Day of the Week.</hi> (Mark;) here the Apoſtles did not call the firſt Day of the Week, the Chriſtian Sabbath; neither did they call it the Lord's-Day, but the firſt Day of the Week; therefore, it is good for all People, profeſſing Chriſtianity, to take Example by the holy Men of
+<pb n="8" facs="tcp:137149:5" rendition="simple:additions"/>God, and call the Days by their Names, and not put new Names, that they have no command, nor yet Example for: Well, but ſome may query or ſay, <hi>Ought we not to ſet apart one Day in ſeven?</hi> Anſwer, I ſay it is ne<g ref="char:EOLhyphen"/>ſſary, yea, needful, that one day in ſeven ſhould be ſet apart, for ſeveral Reaſons. Firſt, It is needful that Man and Beaſt ſhould Reſt ſome time from their Labour. Secondly, Men and Women, being free from their outward Labour and Concern, they may be the more freely given up in their Hearts and Minds to wait upon God and Worſhip him; a Duty that is incumbent upon us all; a Duty that we all owe unto Almighty God; therefore bleſſed are all they that do perform it aright; the which is rightly performed in Spirit and in Truth; ſee <hi>John</hi> 4.23, 24. Thirdly, That Servants that elſe might not have liberty, that they may have liberty to wait upon God, and Worſhip him. Now it is well known, through ſeve<g ref="char:EOLhyphen"/>ral Nations, that we who in ſcorn are called <hi>Quakers,</hi> do ceaſe from our outward Labour, and Aſſemble our ſelves together, to wait upon God, and Worſhip him on the firſt Day of the Week; and yet we cannot there<g ref="char:EOLhyphen"/>fore call it the Chriſtian Sabbath, for we have no ſuch Example from the Holy Apoſtles, but as they did, ſo do we, call it the firſt Day of the Week. Now as for the Names of the Days, which are commonly uſed amongſt many People, they ſprang from the old Pagan <hi>Saxons;</hi> ſee <hi>Ver<g ref="char:EOLhyphen"/>ſtigans Antiquities,</hi> and <hi>Cambden's Brit.</hi> For on the firſt Day of the Week, they worſhipped the Idol of the <hi>Sun,</hi> which was placed in a Temple, from whence they called it <hi>Sunday.</hi> The ſecond Day of the Week they Dedicated to the Idol of the <hi>Moon,</hi> from whence they called it <hi>Munday.</hi> The next was the Idol of <hi>Planets,</hi> which was the Idol of <hi>Tuiſco,</hi> who was the firſt and chiefeſt Man of that Name among the <hi>Germans</hi> unto whom the Name of <hi>Tueſday</hi> was eſpecially Dedicated. The next was the Idol <hi>Wooden,</hi> whom the <hi>Saxons</hi> Honoured for their God of Battel, from whence they called the fourth Day <hi>Wedneſday.</hi> The next was the Idol <hi>Thor,</hi> from whence the Name <hi>Thurſday</hi> is retained inſteed of the fifth Day of the Week. The next Idol was the Goddeſs <hi>Friga,</hi> to which Idol they Dedicated the ſixth Day of the Week, and called it <hi>Friday,</hi> which is retained unto this Day. The laſt was the Idol <hi>Seater,</hi> from whence the ſeventh Day is called <hi>Saturday.</hi>
+            </p>
+            <p>Now it is good for all People to leave theſe old Pagan, <hi>Saxon,</hi> Heather Names, and call the Days as they are called in Scripture, as is before ſhew<g ref="char:EOLhyphen"/>ed. The Lord proſper his Great Work, and cauſe his Truth to ſpread more and more, is the Prayer and Deſire of my Soul; even ſo. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>EXON, <date>9th Month, 1692.</date>
+               </dateline>
+               <signed>
+                  <hi>Written by a Lover of the Lord Jeſus Chriſt,</hi> JOSEPH NOTT</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:137149:5"/>
+            <pb facs="tcp:137149:6"/>
+            <pb facs="tcp:137149:6" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
